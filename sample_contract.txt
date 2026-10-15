@@ -1,0 +1,66 @@
+
+EMPLOYMENT CONTRACT
+===================
+
+This Employment Contract ("Agreement") is entered into on 08 May 2026, by and between:
+
+EMPLOYER:
+  Company Name : Sankaran, Shukla and Handa
+  Registered Address : H.No. 31, Ganguly Ganj, Raurkela Industrial Township 325831
+
+EMPLOYEE:
+  Full Name    : Jackson Ratta
+  Address      : 129, Oommen Road, Berhampore 623046
+  Phone Number : +915415714496
+  Email        : mitalquincy@example.com
+  Aadhar Number: 4880-1446-2503
+
+---
+
+1. POSITION AND DUTIES
+   The Employer agrees to employ the Employee in the capacity of Hotel manager.
+   The Employee shall perform all duties as assigned by the management of Sankaran, Shukla and Handa.
+
+2. COMMENCEMENT DATE
+   This Agreement shall commence on 01 November 2026 and shall continue unless terminated
+   by either party in accordance with the terms set forth herein.
+
+3. COMPENSATION
+   The Employee will be entitled to a gross salary of INR 95,000 per annum, payable in equal
+   monthly instalments on the last working day of each month.
+
+4. WORKING HOURS
+   The standard working hours shall be 9:00 AM to 6:00 PM, Monday through Friday.
+   The Employee may be required to work additional hours as necessary.
+
+5. LEAVE ENTITLEMENT
+   The Employee is entitled to:
+   - 12 days of earned leave per year
+   - 12 days of casual/sick leave per year
+   - Public holidays as per the company calendar
+
+6. CONFIDENTIALITY
+   The Employee agrees to keep all proprietary information, trade secrets, and
+   business data of Sankaran, Shukla and Handa strictly confidential during and after employment.
+
+7. TERMINATION
+   Either party may terminate this Agreement by providing 30 days' written notice.
+   The Employer reserves the right to terminate employment immediately in cases of
+   gross misconduct.
+
+8. GOVERNING LAW
+   This Agreement shall be governed by and construed in accordance with the laws
+   of the Republic of India. Any disputes shall be subject to the jurisdiction of
+   courts located in Hospet.
+
+---
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date
+first written above.
+
+EMPLOYER                                EMPLOYEE
+
+_______________________                 _______________________
+Authorised Signatory                    Jackson Ratta
+Sankaran, Shukla and Handa                               Aadhar: 4880-1446-2503
+
