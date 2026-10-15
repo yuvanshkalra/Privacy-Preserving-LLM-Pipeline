@@ -107,7 +107,7 @@ The REST layer uses Pydantic request models for strict input validation. Both `/
 
 ```bash
 git clone https://github.com/yuvanshkalra/Privacy-Preserving-LLM-Pipeline.git
-cd privacy-preserving-llm-pipeline
+cd Privacy-Preserving-LLM-Pipeline
 ```
 
 ---
